@@ -55,6 +55,7 @@
 
 <p align="center">
 <img
+  height = "300"
   width = "300"
   src="https://github-readme-stats.vercel.app/api?username=mikeagubi&show_icons=true&rank_icon=github&theme=github_dark"
 />

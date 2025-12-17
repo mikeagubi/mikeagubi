@@ -54,8 +54,17 @@
 ---
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=mikeagubi&show_icons=true&rank_icon=github&theme=github_dark&ring_color=00000000&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api
+  ?username=mikeagubi
+  &show_icons=true
+  &rank_icon=github
+  &theme=github_dark
+  &ring_color=00000000
+  &hide_border=true
+  &hide=prs,issues
+  &text_bold=false"
 />
+
 
 
 

@@ -71,6 +71,22 @@
       />
     </td>
   </tr>
+  <tr>
+    <td>
+      <img
+        src="[https://github-readme-stats.vercel.app/api?username=mikeagubi&show_icons=true&theme=github_dark&rank_icon=github](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)"
+        width="400"
+        height="200"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeagubi&layout=compact&theme=github_dark"
+        width="400"
+        height="170"
+      />
+    </td>
+  </tr>
  
 </table>
 

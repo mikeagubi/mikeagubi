@@ -55,8 +55,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikeagubi&show_icons=true&theme=tokyonight" height="30%" width="40%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeagubi&layout=compact&langs_count=5&theme=tokyonight"height="30%" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mikeagubi&show_icons=true&theme=tokyonight" height="50%" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeagubi&layout=compact&langs_count=5&theme=tokyonight" height="30%" width="38%" />
 </p>
 
 

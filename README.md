@@ -54,9 +54,10 @@
 ---
 
 <img
-  height="135"
-  src="https://github-readme-stats.vercel.app/api?username=mikeagubi&show_icons=true&rank_icon=github&theme=github_dark&ring_color=00000000&hide_border=true&hide=prs,issues&text_bold=false&hide_title=true&line_height=20"
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=mikeagubi&show_icons=true&rank_icon=github&theme=github_dark&ring_color=00000000&hide_border=true&hide=prs,issues&text_bold=false&hide_title=false&custom_title=Stats&line_height=22"
 />
+
 
 
 

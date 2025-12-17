@@ -74,7 +74,7 @@
   <tr>
     <td>
       <img
-        src="[https://github-readme-stats.vercel.app/api?username=mikeagubi&show_icons=true&theme=github_dark&rank_icon=github](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)"
+        src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
         width="400"
         height="200"
       />

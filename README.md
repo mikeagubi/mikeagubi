@@ -52,17 +52,8 @@
 - SQL & Database Design
 
 ---
-
 <p align="center">
-<img
-  height = "300"
-  width = "300"
-  src="https://github-readme-stats.vercel.app/api?username=mikeagubi&show_icons=true&rank_icon=github&theme=github_dark"
-/>
-  <img
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeagubi&layout=donut&theme=github_dark"
-  />
+  <img src="https://raw.githubusercontent.com/mikeagubi/mikeagubi/main/metrics.svg" />
 </p>
 
 ---

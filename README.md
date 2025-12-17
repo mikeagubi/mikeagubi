@@ -55,9 +55,16 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikeagubi&show_icons=true&theme=aura"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeagubi&layout=compact&langs_count=5&theme=aura width 400px"/>
+  <img
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=mikeagubi&show_icons=true&theme=github_dark"
+  />
+  <img
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeagubi&layout=compact&theme=github_dark"
+  />
 </p>
+
 
 
 ---

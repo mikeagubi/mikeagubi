@@ -53,7 +53,7 @@
 
 ---
 
-  <img src="https://raw.githubusercontent.com/mikeagubi/mikeagubi/main/metrics.svg" />
+<img src="https://github-readme-stats.vercel.app/api?username=mikeagubi&show_icons=true&rank_icon=github&theme=github_dark" />
 
 
 

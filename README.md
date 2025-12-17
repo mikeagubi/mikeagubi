@@ -1,8 +1,6 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="150"/>
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="140"/>
 
 <h1 align="center">Hi 👋 I'm Mike</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=.NET+Developer;MAUI+%7C+Razor+Pages+%7C+Blazor;HTML+CSS+JavaScript;APIs+%7C+Databases+%7C+Clean+Code&center=true&width=650&height=50">
 </p>

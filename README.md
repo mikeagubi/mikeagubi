@@ -55,10 +55,8 @@
 
 
 
-<img srs= "https://github-readme-stats.vercel.app/api?username=mikeagubi&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=github_dark&rank_icon=github">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikeagubi)](https://github.com/anuraghazra/github-readme-stats&show_icons=false)
-
+ <img src="https://github-readme-stats.vercel.app/api?username=mikeagubi&theme=github_dark&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeagubi&layout=compact&theme=github_dark" />
 ---
 
 

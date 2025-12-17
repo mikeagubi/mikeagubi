@@ -1,0 +1,26 @@
+name: Generate GitHub Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: mikeagubi
+          outputs: |
+            assets/github-snake.svg
+            assets/github-snake-dark.svg?palette=github-dark
+
+      - name: Commit files
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Generate GitHub snake"
+          add: "assets/*.svg"

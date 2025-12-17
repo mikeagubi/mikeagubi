@@ -90,12 +90,12 @@
  
 </table>
 <div>
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=mikeagubi&layout=compact&theme=github_dark">
-  <img src= "https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true">
+  <img [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)>
+  <img src= "[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)">
 </div>
 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

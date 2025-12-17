@@ -60,7 +60,7 @@
     src="https://github-readme-stats.vercel.app/api?username=mikeagubi&show_icons=true&theme=github_dark"
   />
   <img
-    height="220"
+    height="250"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeagubi&layout=compact&theme=github_dark"
   />
 </p>

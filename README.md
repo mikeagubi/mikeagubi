@@ -56,7 +56,7 @@
 
 
  <img src="https://github-readme-stats.vercel.app/api?username=mikeagubi&theme=github_dark&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeagubi&layout=compact&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/prs_merged_percentage/?username=mikeagubi&layout=compact&theme=github_dark" />
 ---
 
 

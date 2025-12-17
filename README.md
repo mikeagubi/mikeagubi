@@ -56,7 +56,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mikeagubi&show_icons=true&theme=aura"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeagubi&layout=compact&langs_count=5&theme=aura  width= auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeagubi&layout=compact&langs_count=5&theme=aura  width= 400px;"/>
 </p>
 
 

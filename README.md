@@ -61,6 +61,10 @@
 
 
 ---
+<p align="center">
+  <img src="https://github.com/mikeagubi/mikeagubi/raw/main/assets/github-snake-dark.svg" />
+</p>
+
 
 ## 🔥 Featured Projects
 - 📦 Inventory-Management Project (Razor Pages) 

@@ -54,20 +54,16 @@
 ---
 
 <p align="center">
-  <img
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=mikeagubi&show_icons=true&rank_icon=github&theme=github_dark"
-  />
+<img
+  height="220"
+  src="https://github-readme-stats.vercel.app/api?username=mikeagubi&show_icons=true&rank_icon=github&theme=github_dark"
+/>
   <img
     height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeagubi&layout=donut&theme=github_dark"
   />
 </p>
 
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=mikeagubi&show_icons=true&hide_rank=true&theme=github_dark" />
-  <img height="80" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
-</p>
 ---
 
 

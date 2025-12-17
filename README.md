@@ -60,7 +60,7 @@
       <img
         src="https://github-readme-stats.vercel.app/api?username=mikeagubi&show_icons=true&theme=github_dark&rank_icon=github"
         width="400"
-        height="180"
+        height="200"
       />
     </td>
     <td>

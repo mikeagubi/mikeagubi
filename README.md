@@ -83,5 +83,6 @@
 - ⭐ Feel free to explore my repositories
 - 💬 Always open to learning and collaboration
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mikeagubi/mikeagubi/main/assets/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/mikeagubi/mikeagubi/main/assets/github-snake-light.svg" />
 </p>
+

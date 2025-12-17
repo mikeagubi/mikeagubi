@@ -83,6 +83,6 @@
 - ⭐ Feel free to explore my repositories
 - 💬 Always open to learning and collaboration
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mikeagubi/mikeagubi/main/assets/github-snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/mikeagubi/mikeagubi/main/assets/github-snake-dark.svg" />
 </p>
 

@@ -1,4 +1,4 @@
-name: Generate GitHub Snake
+name: Generate Snake
 
 on:
   schedule:
@@ -10,14 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-
       - uses: Platane/snk@v3
         with:
           github_user_name: mikeagubi
           outputs: |
             assets/github-snake.svg
-
       - uses: EndBug/add-and-commit@v9
         with:
-          message: "Generate GitHub snake"
-          add: "assets/github-snake.svg"
+          message: "Generate snake"

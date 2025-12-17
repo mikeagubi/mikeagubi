@@ -52,9 +52,8 @@
 - SQL & Database Design
 
 ---
-<p align="center">
+
   <img src="https://raw.githubusercontent.com/mikeagubi/mikeagubi/main/metrics.svg" />
-</p>
 
 
 

@@ -71,31 +71,7 @@
       />
     </td>
   </tr>
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=mikeagubi&repo=REPO1&theme=github_dark"
-        width="400"
-        height="180"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=mikeagubi&repo=REPO2&theme=github_dark"
-        width="400"
-        height="180"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=mikeagubi&repo=REPO3&theme=github_dark"
-        width="820"
-        height="180"
-      />
-    </td>
-  </tr>
+ 
 </table>
 
 

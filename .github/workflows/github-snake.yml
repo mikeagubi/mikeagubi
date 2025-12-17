@@ -11,16 +11,13 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate snake
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: mikeagubi
           outputs: |
             assets/github-snake.svg
-            assets/github-snake-dark.svg?palette=github-dark
 
-      - name: Commit files
-        uses: EndBug/add-and-commit@v9
+      - uses: EndBug/add-and-commit@v9
         with:
-          message: "Generate GitHub Snake"
-          add: "assets/*.svg"
+          message: "Generate GitHub snake"
+          add: "assets/github-snake.svg"

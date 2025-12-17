@@ -61,9 +61,7 @@
 
 
 ---
-<p align="center">
-  <img src="https://github.com/mikeagubi/mikeagubi/raw/main/assets/github-snake-dark.svg" />
-</p>
+
 
 
 ## 🔥 Featured Projects
@@ -84,3 +82,6 @@
 ## 🤝 Connect
 - ⭐ Feel free to explore my repositories
 - 💬 Always open to learning and collaboration
+<p align="center">
+  <img src="https://github.com/mikeagubi/mikeagubi/raw/main/assets/github-snake-dark.svg" />
+</p>

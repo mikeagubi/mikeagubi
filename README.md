@@ -1,72 +1,89 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Rasul;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Mike;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<a href="https://discord.gg/5dZPVytKnn">
-    <h3 align="center">
-        <img src="https://i.imgur.com/5XG3bRq.png" width="280"><br>
-        Back-end Developer
-    </h3>
-</a>
-Hi! I am a skilled Python back-end developer with experience in building and maintaining high-performance, robust server-side applications. My expertise in Python allows me to efficiently handle data processing, database management, and API development. I am familiar with popular web frameworks such as FastApi and Django and have experience working with databases such as Postgresql and MongoDB. I am also comfortable with version control using Git and have experience with Agile development methodologies. My goal is to deliver quality, scalable solutions that meet the needs of my clients.
+<h3 align="center">
+  <img src="https://i.imgur.com/5XG3bRq.png" width="280"><br>
+  .NET / Backend Developer
+</h3>
 
-### 📈 GitHub Activity Graph:
+Hi! I am a backend-focused developer with experience in building robust applications using C# and .NET.  
+I work with APIs, databases, Clean Code principles, and DevOps workflows.  
+I also build web apps with HTML, CSS, JavaScript, Razor Pages & Blazor, and cross-platform apps with MAUI.
+
+---
+
+### 📈 GitHub Activity Graph
 
 <p align="center">
-  <a href="https://github.com/nnnLik">
+  <a href="https://github.com/mikeagubi">
     <img align="center"
          height="150em"
-         src="https://streak-stats.demolab.com?user=nnnLik&theme=aura&hide_border=false&border_radius=10" />
+         src="https://streak-stats.demolab.com?user=mikeagubi&theme=aura&hide_border=false&border_radius=10" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/nnnLik">
+  <a href="https://github.com/mikeagubi">
     <img align="center"
          height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nnnlik&theme=aura"
-    />
-  <a href="https://github.com/nnnLik">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nnnlik&theme=aura"
-    />
-</p>
-
-<p align="center">
-  <a href="https://github.com/nnnLik">
-    <img align="center"
-         height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nnnlik&theme=aura"
-    />
-  <a href="https://github.com/nnnLik">
-    <img align="center"
-         height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nnnlik&theme=aura&utcOffset=8"
-    />
-</p>
-
-<p align="center">
- <a href="https://github.com/nnnLik">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nnnLik&theme=aura"
-    />
-</p>
-
-<div align="center">
-  <a href = "mailto:rslmakhmudov@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/makmdvra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mikeagubi&theme=aura" />
   </a>
-  <a href="https://ko-fi.com/xionnnn" target="_blank"><img src="https://img.shields.io/badge/-Donat-%230077B5?style=for-the-badge&logo=donat&logoColor=Black" target="_blank"></a> 
- </div>
+  <a href="https://github.com/mikeagubi">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mikeagubi&theme=aura" />
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/mikeagubi">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikeagubi&theme=aura" />
+  </a>
+  <a href="https://github.com/mikeagubi">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mikeagubi&theme=aura&utcOffset=1" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mikeagubi">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikeagubi&theme=aura" />
+  </a>
+</p>
+
+---
+
+### 🐱 GitHub Stats (Clean, no border)
+
+<p align="center">
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api?username=mikeagubi&show_icons=true&rank_icon=github&theme=github_dark&ring_color=00000000&hide_border=true&hide=prs,issues&text_bold=false&custom_title=Stats&line_height=22&bg_color=135,1f1f1f,0d1117" />
+</p>
+
+---
+
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{nnnLik}/count.svg" /></p> 
-<br></div>
+  <a href="mailto:yourmail@example.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
 
-<h2 align="center"> Thanks for visiting my profile. </h2>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<div align="center">
+  <br>
+  <p><b>Visitors Count</b></p>
+  <img src="https://profile-counter.glitch.me/mikeagubi/count.svg" />
+  <br><br>
+</div>
 
+<h2 align="center">Thanks for visiting my profile 🙌</h2>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>

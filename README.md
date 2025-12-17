@@ -66,8 +66,8 @@
     <td>
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeagubi&layout=compact&theme=github_dark"
-        width="400"
-        height="160"
+        width="380"
+        height="170"
       />
     </td>
   </tr>

@@ -19,7 +19,7 @@
 
 <img
   width="180"
-  height="180"
+  height="400"
   src="https://github-readme-stats.vercel.app/api?username=mikeagubi&show_icons=true&rank_icon=github&theme=github_dark&ring_color=00000000&hide_border=true&hide=prs,issues&text_bold=false&custom_title=Stats&line_height=22&bg_color=135,1f1f1f,0d1117"
 />
 

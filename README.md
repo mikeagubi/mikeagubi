@@ -54,46 +54,7 @@
 ---
 
 
-<table align="center">
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=mikeagubi&show_icons=true&theme=github_dark&rank_icon=github"
-        width="400"
-        height="200"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeagubi&layout=compact&theme=github_dark"
-        width="400"
-        height="170"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-        width="400"
-        height="200"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeagubi&layout=compact&theme=github_dark"
-        width="400"
-        height="170"
-      />
-    </td>
-  </tr>
- 
-</table>
-<div>
-  <img [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)>
-  <img src= "[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)">
-  <p>HERE OVAN</p>
-</div>
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)

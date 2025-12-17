@@ -1,16 +1,82 @@
-### Hi there 👋
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
-<!--
-**mikeagubi/mikeagubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋 I'm Mike</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=.NET+Developer;MAUI+%7C+Razor+Pages+%7C+Blazor;HTML+CSS+JavaScript;APIs+%7C+Databases+%7C+Clean+Code&center=true&width=650&height=50">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+- 💻 Junior .NET Developer  
+- 🌐 Web & app development with **HTML, CSS, JavaScript**
+- 📱 Building cross-platform apps with **MAUI**
+- 🧩 Backend with **C#, SQL, Entity Framework & APIs**
+- ⚙️ Focus on **Clean Code, DevOps & Agile methods**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Web
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+</p>
+
+### Frameworks & UI
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
+</p>
+
+### Databases & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/entityframeworkcore/entityframeworkcore-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</p>
+
+---
+
+## 📐 Practices & Concepts
+- Clean Code
+- DevOps
+- Agile / Scrum
+- REST APIs
+- Regular Expressions
+- SQL & Database Design
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mikeagubi&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeagubi&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+- 📦 Inventory-Management Project (Razor Pages) 
+- 🏦 Bank Web App (Razor Pages)
+- 💊 Medical discussion forum Web App (Razor Pages) 
+- 🕵️ Police & Thief Console Simulation  
+- 🚗 Parking System (Console App)  
+- 🍹 Drink Recipe App (MAUI + API)  
+- 🌐 HTML/CSS/JavaScript Web Projects
+
+
+
+📌 Check out my pinned repositories below 👇
+
+---
+
+## 🤝 Connect
+- ⭐ Feel free to explore my repositories
+- 💬 Always open to learning and collaboration

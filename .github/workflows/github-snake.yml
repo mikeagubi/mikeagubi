@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate GitHub Snake
 
 on:
   schedule:
@@ -11,12 +11,15 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - uses: Platane/snk@master
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: mikeagubi
-          svg_out_path: assets/github-contribution-grid-snake.svg
+          outputs: |
+            assets/github-snake-light.svg?palette=github-light
 
-      - uses: EndBug/add-and-commit@v9
+      - name: Commit files
+        uses: EndBug/add-and-commit@v9
         with:
-          message: "Generate classic snake"
+          message: "Generate GitHub Snake"
           add: "assets/*.svg"

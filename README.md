@@ -56,7 +56,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img
-    height="100"
+    height="150"
     src="https://github-readme-stats.vercel.app/api?username=mikeagubi&show_icons=true&theme=github_dark"
   />
   <img

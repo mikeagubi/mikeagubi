@@ -89,8 +89,8 @@
   </tr>
  
 </table>
+<img src= "https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true">
 
-https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true
 
 
 

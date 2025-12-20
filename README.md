@@ -8,7 +8,7 @@
         Full-stack / .NET Developer
     </h3>
 </a>
-<a href="https://visitorbadge.io/status?path=mikeagubi"><img src="https://api.visitorbadge.io/api/visitors?path=mikeagubi&countColor=%232ccce4" /></a>
+
 
 
 ---

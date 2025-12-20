@@ -61,8 +61,8 @@
     />
   </a>
 </p>
-<h5 align="center">🤝🏻 Connect with Me 🤝🏻 </h5>
-<h3 align="center">🤝🏻 Connect with Me</h3>
+<h4 align="center">🤝🏻Connect with Me🤝🏻 </h4>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/michael-zaid-agubi-b481b2188/" target="_blank" rel="noopener noreferrer">

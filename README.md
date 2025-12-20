@@ -61,7 +61,27 @@
     />
   </a>
 </p>
+<h5 align="center">🤝🏻 Connect with Me 🤝🏻 </h5>
 <h3 align="center">🤝🏻 Connect with Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/michael-zaid-agubi-b481b2188/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/michael.agubi.18" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/plasticine/100/000000/facebook-new.png" width="50" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/mikeagubi/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" />
+  </a>
+  &nbsp;
+  <a href="mailto:mike.1985@live.se">
+    <img src="https://img.icons8.com/plasticine/100/000000/email.png" width="50" />
+  </a>
+</p>
+
 <div align="center">
   <a href="mailto:yourmail@example.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">

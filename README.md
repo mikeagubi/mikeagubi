@@ -63,6 +63,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mikeagubi/mikeagubi/main/assets/github-snake.svg" />
+</p>
+
 <h4 align="center">🤝🏻Connect with Me🤝🏻 </h4>
 
 

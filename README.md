@@ -13,7 +13,7 @@
 
 ---
 
-<h4>### 📈 GitHub Activity Graph:</h4>
+<h4>### 📈gg GitHub Activity Graph:</h4>
     ### 📈 GitHub Activity Graph:
 
 <p align="center">

@@ -10,7 +10,6 @@
 </a>
 
 ---
----
 
 
 <h4 align="center">📈GitHub Activity Graph📈</h4>
@@ -62,7 +61,6 @@
   </a>
 </p>
 
----
 ---
 
 <h4 align="center">🤝🏻Connect with Me🤝🏻 </h4>

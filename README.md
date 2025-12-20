@@ -61,7 +61,7 @@
     />
   </a>
 </p>
-
+<h3 align="center">🤝🏻 Connect with Me</h3>
 <div align="center">
   <a href="mailto:yourmail@example.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">

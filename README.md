@@ -73,9 +73,9 @@
 
 <div align="center">
 <br>
-<p><b>Visitors Count</b></p>
+
 <p align="center">
-  <a href="https://visitorbadge.io/status?path=mikeagubi"><img src="https://api.visitorbadge.io/api/visitors?path=mikeagubi&labelColor=%232ccce4&countColor=%23697689&labelStyle=upper" /></a>
+  <a href="https://visitorbadge.io/status?path=mikeagubi"><img src="https://api.visitorbadge.io/api/visitors?path=mikeagubi&labelColor=%23ba68c8&countColor=%23555555&labelStyle=upper" /></a>
 </p>
 <br>
 </div>

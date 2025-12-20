@@ -75,7 +75,7 @@
 <br>
 <p><b>Visitors Count</b></p>
 <p align="center">
-  <img align="center" src="https://profile-counter.glitch.me/mikeagubi/count.svg" />
+  <a href="https://visitorbadge.io/status?path=mikeagubi"><img src="https://api.visitorbadge.io/api/visitors?path=mikeagubi&labelColor=%232ccce4&countColor=%23697689&labelStyle=upper" /></a>
 </p>
 <br>
 </div>

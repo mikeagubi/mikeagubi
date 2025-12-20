@@ -13,8 +13,7 @@
 
 ---
 
-<h4>### 📈gg GitHub Activity Graph:</h4>
-    ### 📈 GitHub Activity Graph:
+<h4 align="center">### 📈gg GitHub Activity Graph:</h4>
 
 <p align="center">
   <a href="https://github.com/mikeagubi">

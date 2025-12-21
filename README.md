@@ -9,6 +9,9 @@
 </a>
 
 ---
+<img src="aboutme.png" width="900" />
+
+
 
 <h4>🙋‍♂️About Me</h4>
 

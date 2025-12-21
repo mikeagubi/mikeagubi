@@ -9,6 +9,8 @@
 </a>
 
 ---
+
+![About Me](aboutme.png)
 <img src="aboutme.png" width="900" />
 
 

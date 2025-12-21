@@ -10,7 +10,8 @@
 
 ---
 
-<h4>About Me</h4>
+<h4>🙋‍♂️About Me</h4>
+
 <p>👋 Hi, I'm Mike — 40 years old, married, and a father of three </p>
 <p>💻 Fullstack developer student focusing on C# and .NET </p> 
 <p>🧑‍💼 Currently working in pharmacy while transitioning into tech  </p>

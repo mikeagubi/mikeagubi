@@ -11,6 +11,7 @@
 ---
 
 <h4>🙋‍♂️About Me</h4>
+<hr>
 
 <p>👋 Hi, I'm Mike — 40 years old, married, and a father of three </p>
 <p>💻 Fullstack developer student focusing on C# and .NET </p> 

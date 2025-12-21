@@ -5,12 +5,12 @@
 <a href="#">
     <h3 align="center">
         <img src="https://i.imgur.com/5XG3bRq.png" width="280"><br>
-        Full-stack / .NET Developer
     </h3>
 </a>
 
 ---
 
+<h4>About Me</h4>
 <p>👋 Hi, I'm Mike — 40 years old, married, and a father of three </p>
 <p>💻 Fullstack developer student focusing on C# and .NET </p> 
 <p>🧑‍💼 Currently working in pharmacy while transitioning into tech  </p>

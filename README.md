@@ -16,6 +16,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=7c3aed&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Mike;Be+Welcome!+:%29)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Montserrat&color=7c3aed&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Mike;Be+Welcome!+:%29)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&color=7c3aed&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Mike;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&color=7c3aed&size=42&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Mike;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 ---

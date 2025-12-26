@@ -1,5 +1,5 @@
-<img src="header.svg" width="100%" />
-<img src="https://raw.githubusercontent.com/DITT_ANVÄNDARNAMN/DITT_REPO/main/header.svg" width="100%" />
+<img src="./header.svg" width="100%" />
+
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,12&height=120&section=header"/>

@@ -23,7 +23,7 @@
 
 ---
 
-![About Me](aboutme.png)
+![About](about.png)
 <p>asdfadasdasdad</p>
 
 

@@ -12,7 +12,7 @@
 
 ![About Me](aboutme.png)
 <p>asdfadasdasdad</p>
-<img src="aboutme.png" width="900" />
+
 
 
 

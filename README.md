@@ -43,7 +43,7 @@
   </a>
   <a href="https://github.com/mikeagubi">
     <img align="center"
-         height="180em"
+         height="230em"
          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mikeagubi&theme=aura"
     />
   </a>
@@ -52,13 +52,13 @@
 <p align="center">
   <a href="https://github.com/mikeagubi">
     <img align="center"
-         height="180em"
+         height="230em"
          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikeagubi&theme=aura"
     />
   </a>
   <a href="https://github.com/mikeagubi">
     <img align="center"
-         height="180em"
+         height="230em"
          src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mikeagubi&theme=aura&utcOffset=1"
     />
   </a>
@@ -67,7 +67,7 @@
 <p align="center">
  <a href="https://github.com/mikeagubi">
     <img align="center"
-         height="180em"
+         height="230em"
          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikeagubi&theme=aura"
     />
   </a>

@@ -79,6 +79,10 @@
   <img src="https://raw.githubusercontent.com/mikeagubi/mikeagubi/main/assets/github-snake.svg" />
 </p>
 
+
+
+---
+
 <h4 align="center">🤝🏻Connect with Me🤝🏻 </h4>
 
 
@@ -99,8 +103,6 @@
     <img src="https://img.icons8.com/plasticine/100/000000/email.png" width="50" />
   </a>
 </p>
-
----
 
 <div align="center">
 <br>

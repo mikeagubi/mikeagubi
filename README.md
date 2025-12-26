@@ -12,6 +12,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&colorStops=0,800080;100,000000"/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&colorStops=0,000000;50,4b0082;100,800080"/>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&colorStops=0,0a0014;50,2a004f;100,800080"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=000000"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080&size=35&center=true&width=1000&lines=Hello,+my+name+is+Mike)](https://git.io/typing-svg)
+
+
+
+
 
 
 

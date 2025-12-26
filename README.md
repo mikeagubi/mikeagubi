@@ -3,7 +3,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradientColor=000000,4b0082&height=120&section=header"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&colorStops=0,000000;50,800080;100,9b4dff"/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header"/>
 
 

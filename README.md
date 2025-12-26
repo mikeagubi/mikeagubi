@@ -9,6 +9,17 @@
 
 
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&colorStops=0,0a0f1f;50,001f3f;100,1e90ff"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&colorStops=0,020617;50,020617;100,0b1c2d"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&colorStops=0,020617;50,001f3f;100,00e5ff"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=001f3f&height=120&section=header"/>
+
+
+
+
 
 
 

@@ -17,6 +17,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=001f3f&height=120&section=header"/>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,4,6&height=120"/>
 
 
 

@@ -18,22 +18,7 @@
 ---
 
 ![About](about.png)
-<p>asdfadasdasdad</p>
 
-
-
-
-<h4>🙋‍♂️About Me</h4>
-
-<p>👋 Hi, I'm Mike — 40 years old, married, and a father of three </p>
-<p>💻 Fullstack developer student focusing on C# and .NET </p> 
-<p>🧑‍💼 Currently working in pharmacy while transitioning into tech  </p>
-<p>🚀 Learning by building real projects and improving every day  </p>
-<p>🎮 Gamer who enjoys World of Warcraft, Red Dead Redemption 2 & GTA  </p>
-<p>🖥 Tech enthusiast passionate about hardware, PC building & modding  </p>
-<p>🤖 Loves technology, electronics, smart home devices & automation  </p>
-<p>🌍 Based in Sweden (Nyköping) with a dream of living somewhere warmer  </p>
-<p>🎯 Goal: become a confident fullstack developer creating clean, useful software  </p>
 
 ---
 

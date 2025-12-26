@@ -29,7 +29,7 @@
 <p align="center">
   <a href="https://github.com/mikeagubi">
     <img align="center"
-         height="150em"
+         height="180em"
          src="https://streak-stats.demolab.com?user=mikeagubi&theme=aura&hide_border=false&border_radius=10" />
   </a>
 </p>

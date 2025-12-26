@@ -3,6 +3,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=header"/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=f97316&height=120&section=header"/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=f59e0b&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2e003e&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3b0764&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5b21b6&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9333ea&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=c084fc&height=120&section=header"/>
+
 
 
 

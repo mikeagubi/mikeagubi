@@ -1,10 +1,16 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4&height=120&section=header"/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,12&height=120&section=header"/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13,0&height=120&section=header"/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,12,0&height=120&section=header"/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13,8,0&height=120&section=header"/>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradientColor=000000,800080&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradientColor=000000,4b0082&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradientColor=800080,000000&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradientColor=bb00ff,000000&height=120&section=header"/>
+
+
+
+
 
 
 

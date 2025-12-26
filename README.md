@@ -37,13 +37,13 @@
 <p align="center">
   <a href="https://github.com/mikeagubi">
     <img align="center"
-         height="250em"
+         height="255em"
          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mikeagubi&theme=aura"
     />
   </a>
   <a href="https://github.com/mikeagubi">
     <img align="center"
-         height="250em"
+         height="255em"
          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mikeagubi&theme=aura"
     />
   </a>

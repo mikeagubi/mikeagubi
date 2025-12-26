@@ -10,6 +10,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=000000"/>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&colorStops=0,0f001a;50,7f00ff;100,00e5ff"/>
+
+
 
 
 

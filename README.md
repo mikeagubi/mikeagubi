@@ -52,13 +52,13 @@
 <p align="center">
   <a href="https://github.com/mikeagubi">
     <img align="center"
-         height="250em"
+         height="255em"
          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikeagubi&theme=aura"
     />
   </a>
   <a href="https://github.com/mikeagubi">
     <img align="center"
-         height="250em"
+         height="255em"
          src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mikeagubi&theme=aura&utcOffset=1"
     />
   </a>

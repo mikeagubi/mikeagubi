@@ -8,6 +8,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&colorStops=0,1a001f;50,4b0082;100,9b4dff"/>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=000000"/>
+
+
 
 
 

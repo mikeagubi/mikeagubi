@@ -67,7 +67,7 @@
 <p align="center">
  <a href="https://github.com/mikeagubi">
     <img align="center"
-         height="230em"
+         height="250em"
          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikeagubi&theme=aura"
     />
   </a>

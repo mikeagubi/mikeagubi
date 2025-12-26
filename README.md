@@ -1,9 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=001f3f&height=120&section=header"/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header"/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0b1c2d&height=120&section=header"/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=001f3f&height=120&section=header"/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=120&section=header"/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e3a8a&height=120&section=header"/>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2563eb&height=120&section=header"/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=header"/>
 

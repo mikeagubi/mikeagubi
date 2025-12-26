@@ -18,23 +18,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=001f3f&height=120&section=header"/>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&colorStops=0,0a0f1f%3B50,001f3f%3B100,1e90ff"/>
-
-
-
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&colorStops=0,020617%3B50,020617%3B100,0b1c2d"/>
-
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=001f3f&height=120&section=header"/>
-
-
-
-
-
-
-
-
 
 
 

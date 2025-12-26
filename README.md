@@ -111,8 +111,7 @@
 <br>
 </div>
 
-<h2 align="center">Thanks for visiting my profile 🙌</h2>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=footer"/>
 
 

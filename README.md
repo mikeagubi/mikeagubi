@@ -37,7 +37,7 @@
 <p align="center">
   <a href="https://github.com/mikeagubi">
     <img align="center"
-         height="180em"
+         height="190em"
          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mikeagubi&theme=aura"
     />
   </a>

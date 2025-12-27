@@ -113,45 +113,19 @@
 <br>
 </div>
 
+## 🧑‍💻 Technologies & Tools
 
-## 🧑‍💻 Skills
-
-<table>
-<tr>
-
-<!-- ================= BACKEND ================= -->
-<td valign="top" width="33%">
-
-### Backend  
-<div align="center">  
+<div align="center">
   <img src="https://skillicons.dev/icons?i=csharp" height="45" alt="C#" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="45" alt=".NET" />
   <img src="https://skillicons.dev/icons?i=azure" height="45" alt="Azure" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="45" alt="SQLite" />
-</div>
-
-</td>
-
-<!-- ================= FRONTEND ================= -->
-<td valign="top" width="33%">
-
-### Frontend  
-<div align="center">  
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS" />
   <img src="https://skillicons.dev/icons?i=javascript" height="45" alt="JavaScript" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="Bootstrap" />
-</div>
-
-</td>
-
-<!-- ================= TOOLS ================= -->
-<td valign="top" width="33%">
-
-### Tools  
-<div align="center">  
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="45" alt="SQLite" />
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" />
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="45" alt="GitLab" />
@@ -162,10 +136,6 @@
   <img src="https://skillicons.dev/icons?i=regex" height="45" alt="Regex" />
 </div>
 
-</td>
-
-</tr>
-</table>
 
 
 

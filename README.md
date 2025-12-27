@@ -43,7 +43,7 @@
 </p>
 
 ---
-<h4 align="center">Technologies & Tools<h4>
+<h4 align="center">🛠️ Technologies & Tools 🛠️</h4>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=csharp" height="45" alt="C#" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="45" alt=".NET" />

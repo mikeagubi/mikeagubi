@@ -9,10 +9,7 @@
 
 ---
 
-<h5 align="center">Visitors counter</h5>
-<p align="center">
-  <a href="https://visitorbadge.io/status?path=mikeagubi"><img src="https://api.visitorbadge.io/api/visitors?path=mikeagubi&countColor=%2337d67a&labelStyle=upper" /></a>
-</p>
+
 <h4 align="center">📈GitHub Activity Graph📈</h4>
 
 
@@ -97,6 +94,10 @@
   <a href="mailto:mike.1985@live.se">
     <img src="https://img.icons8.com/plasticine/100/000000/email.png" width="50" />
   </a>
+</p>
+<h5 align="center">Visitors counter</h5>
+<p align="center">
+  <a href="https://visitorbadge.io/status?path=mikeagubi"><img src="https://api.visitorbadge.io/api/visitors?path=mikeagubi&countColor=%2337d67a&labelStyle=upper" /></a>
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=footer"/>

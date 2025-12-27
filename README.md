@@ -73,12 +73,9 @@
   <img src="https://raw.githubusercontent.com/mikeagubi/mikeagubi/main/assets/github-snake.svg" />
 </p>
 
-
-
 ---
 
 <h4 align="center">🤝🏻Connect with Me🤝🏻 </h4>
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/michael-zaid-agubi-b481b2188/" target="_blank" rel="noopener noreferrer">
@@ -99,7 +96,6 @@
 </p>
 
 <div align="center">
-<br>
 <h5>Visitors counter</h5>
 <p align="center">
   <a href="https://visitorbadge.io/status?path=mikeagubi"><img src="https://api.visitorbadge.io/api/visitors?path=mikeagubi&countColor=%2337d67a&labelStyle=upper" /></a>

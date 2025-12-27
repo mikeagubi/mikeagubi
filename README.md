@@ -74,6 +74,31 @@
 </p>
 
 ---
+## 🧑‍💻 Technologies & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=csharp" height="45" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="45" alt=".NET" />
+  <img src="https://skillicons.dev/icons?i=azure" height="45" alt="Azure" />
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="45" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="45" alt="SQLite" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="45" alt="GitLab" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="Visual Studio" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=rider" height="45" alt="Rider" />
+  <img src="https://skillicons.dev/icons?i=postman" height="45" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=regex" height="45" alt="Regex" />
+</div>
+
+
+
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mikeagubi/mikeagubi/main/assets/github-snake.svg" />
@@ -113,28 +138,7 @@
 <br>
 </div>
 
-## 🧑‍💻 Technologies & Tools
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=csharp" height="45" alt="C#" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="45" alt=".NET" />
-  <img src="https://skillicons.dev/icons?i=azure" height="45" alt="Azure" />
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="45" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="Bootstrap" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="45" alt="SQLite" />
-  <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="45" alt="GitLab" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="Visual Studio" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=rider" height="45" alt="Rider" />
-  <img src="https://skillicons.dev/icons?i=postman" height="45" alt="Postman" />
-  <img src="https://skillicons.dev/icons?i=regex" height="45" alt="Regex" />
-</div>
 
 
 

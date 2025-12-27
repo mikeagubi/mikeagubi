@@ -8,12 +8,11 @@
 ![About](about.png)
 
 ---
-<div align="center">
-<h5>Visitors counter</h5>
+
+<h5 align="center">Visitors counter</h5>
 <p align="center">
   <a href="https://visitorbadge.io/status?path=mikeagubi"><img src="https://api.visitorbadge.io/api/visitors?path=mikeagubi&countColor=%2337d67a&labelStyle=upper" /></a>
 </p>
-</div>
 <h4 align="center">📈GitHub Activity Graph📈</h4>
 
 

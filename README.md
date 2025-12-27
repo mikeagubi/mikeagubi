@@ -29,7 +29,7 @@
 
 <p align="center"> 
   <a href="https://github.com/mikeagubi"> 
-    <img align="center" height="180em" src="https://streak-stats.demolab.com?user=mikeagubi&theme=aura&hide_border=false&border_radius=10" /> 
+    <img align="center" height="225em" src="https://streak-stats.demolab.com?user=mikeagubi&theme=aura&hide_border=false&border_radius=10" /> 
   </a> 
 </p>
 
@@ -40,13 +40,13 @@
 <p align="center">
   <a href="https://github.com/mikeagubi">
     <img align="center"
-         height="180em"
+         height="225em"
          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mikeagubi&theme=aura"
     />
   </a>
   <a href="https://github.com/mikeagubi">
     <img align="center"
-         height="180em"
+         height="225em"
          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mikeagubi&theme=aura"
     />
   </a>
@@ -55,13 +55,13 @@
 <p align="center">
   <a href="https://github.com/mikeagubi">
     <img align="center"
-         height="180em"
+         height="225em"
          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikeagubi&theme=aura"
     />
   </a>
   <a href="https://github.com/mikeagubi">
     <img align="center"
-         height="180em"
+         height="225em"
          src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mikeagubi&theme=aura&utcOffset=1"
     />
   </a>
@@ -70,7 +70,7 @@
 <p align="center">
  <a href="https://github.com/mikeagubi">
     <img align="center"
-         height="180em"
+         height="225em"
          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikeagubi&theme=aura"
     />
   </a>

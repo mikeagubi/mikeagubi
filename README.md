@@ -1,28 +1,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=header"/>
 
-
-
-
-
-
-
-
-
-
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&color=7c3aed&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Mike;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
 
 ---
 
 ![About](about.png)
 
-
 ---
-
-
 
 <h4 align="center">📈GitHub Activity Graph📈</h4>
 
@@ -33,51 +18,32 @@
   </a> 
 </p>
 
-
-
-
-
 <p align="center">
   <a href="https://github.com/mikeagubi">
-    <img align="center"
-         height="225em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mikeagubi&theme=aura"
-    />
+    <img align="center" height="225em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mikeagubi&theme=aura"/>
   </a>
   <a href="https://github.com/mikeagubi">
-    <img align="center"
-         height="225em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mikeagubi&theme=aura"
-    />
+    <img align="center"height="225em"src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mikeagubi&theme=aura"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/mikeagubi">
-    <img align="center"
-         height="225em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikeagubi&theme=aura"
-    />
+    <img align="center"height="225em"src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikeagubi&theme=aura"/>
   </a>
   <a href="https://github.com/mikeagubi">
-    <img align="center"
-         height="225em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mikeagubi&theme=aura&utcOffset=1"
-    />
+    <img align="center"height="225em"src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mikeagubi&theme=aura&utcOffset=1"/>
   </a>
 </p>
 
 <p align="center">
- <a href="https://github.com/mikeagubi">
-    <img align="center"
-         height="225em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikeagubi&theme=aura"
-    />
+  <a href="https://github.com/mikeagubi">
+    <img align="center" height="225em"src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikeagubi&theme=aura"/>
   </a>
 </p>
 
 ---
-## 🧑‍💻 Technologies & Tools
+<h4 align="center">Technologies & Tools<h4>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=csharp" height="45" alt="C#" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="45" alt=".NET" />

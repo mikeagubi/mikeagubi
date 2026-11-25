@@ -5,7 +5,7 @@
 
 ---
 
-![About](about.png)
+![About](about.png?v=2)
 
 ---
 
